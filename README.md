@@ -1,3 +1,7 @@
+Выполнено - [Алиной Кореневой](https://github.com/AlinaKoreneva)
+Проект - [Файл](https://github.com/AlinaKoreneva/project_HH/blob/cbabc4547f68b8d3afe98373cd1b2f74b22241df/HH_jobs_DA_and_BA-2.ipynb)
+Презентация - [Файл](https://github.com/AlinaKoreneva/project_HH/blob/cbabc4547f68b8d3afe98373cd1b2f74b22241df/HH_jobs_DA_and_BA_project.pdf)
+
 ## Название проекта:
 Исследование базы вакансий HeadHunter.
 
